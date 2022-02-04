@@ -18,7 +18,9 @@
     "fs": "^0.0.1-security",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.1.7",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "winston": "^3.5.1",
+    "winston-mongodb": "^5.0.7"
   },
   "devDependencies": {
     "nodemailer": "^6.7.2",
